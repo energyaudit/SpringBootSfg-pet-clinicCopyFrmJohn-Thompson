@@ -1,5 +1,7 @@
 package guru.springframework.sfgpetclinic;
-
+/**
+ * update JPA #48 profile sfg-pet-clinic-4d86fad
+ */
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
