@@ -50,6 +50,7 @@
             <version>3.25.0-GA</version>
         </dependency>
     </dependencies>
+
     <build>
         <plugins>
             <plugin>
